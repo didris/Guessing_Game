@@ -86,14 +86,3 @@ public class MainActivity extends ActionBarActivity {
 
     }
 }
-// myText.setText(myString);
-//   Toast.makeText(getApplicationContext(), myString,
-// Toast.LENGTH_LONG).show();
-
-         /*   if(myNum-number <=5 && myNum-number>=0 || number-myNum <=5){
-            Toast.makeText(getApplicationContext(), "Too Close!",
-                    Toast.LENGTH_LONG).show();
-        }*/
-     /*   if(myNum>number +5 && myNum< number -5){
-            Toast.makeText(getApplicationContext(), "Too Close!",
-                Toast.LENGTH_LONG).show();}*/
